@@ -26,7 +26,6 @@
 
 <br />
 <br />
-<img align="left" alt="Kronos's GitHub Stats" src="https://github-readme-stats-weld-pi.vercel.app/api?username=kronoszv&show_icons=true&hide_border=true" />
 
 
 [website]: https://kronosx.dev
